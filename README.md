@@ -6,6 +6,8 @@
 	<a href="mailto:moreshreyas9@gmail.com"><img src="https://img.shields.io/badge/-moreshreyas9@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
+---
+
 ### <img src="https://github.com/staticshreyas/staticshreyas/blob/master/assets/hello.gif" width="29px"> Hello
 
 I am an undergraduate, Computer Engineering student at K.J. Somaiya College of Engineering. I am a self-motivated, creative and technically sound computer student with a keen interest in learning new technologies. Compatible in working both team as well as independently.
