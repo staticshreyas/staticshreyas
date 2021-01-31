@@ -18,6 +18,6 @@ I am an undergraduate, Computer Engineering student at K.J. Somaiya College of E
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=statichreyas&hide=prs&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+<img src="https://github-readme-stats.vercel.app/api?username=staticshreyas&hide=prs&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=staticshreyas&theme=dark" />
