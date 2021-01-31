@@ -12,7 +12,7 @@
 
 I am an undergraduate, Computer Engineering student at K.J. Somaiya College of Engineering. I am a self-motivated, creative and technically sound computer student with a keen interest in learning new technologies. Compatible in working both team as well as independently.
 
-- 💡 I am working with tensorflow and javascript to make amazing intelligent application.
+- 💡 I am working with tensorflow and javascript to make amazing intelligent applications.
 - 🌱 I’m currently learning the depths of deep learning.
 - ⚡ Available for internship opportunities.
 
