@@ -1,4 +1,6 @@
-![Intro](https://github.com/staticshreyas/staticshreyas/blob/master/assets/intro.gif)
+
+
+<h1 align="center">Shreyas More</h1>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/shreyas-more-9903b8176/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
