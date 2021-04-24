@@ -1,8 +1,9 @@
 
 
-<h1 align="center">Shreyas More</h1>
+
 
 <p align="center">
+	<h1 align="center">Shreyas More</h1>
 	<a href="https://www.linkedin.com/in/shreyas-more-9903b8176/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 	<a href="https://www.instagram.com/shreyasmore91/?hl=en/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 	<a href="mailto:moreshreyas9@gmail.com"><img src="https://img.shields.io/badge/-moreshreyas9@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
