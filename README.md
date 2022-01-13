@@ -9,7 +9,7 @@
 
 ### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px"> Hey folks! <br><br>
 
-<img align="right" alt="GIF" src="https://github.com/staticshreyas/staticshreyas/blob/master/intro.gif?raw=true" width="500" height="340" />
+<img align="right" alt="GIF" src="https://github.com/staticshreyas/staticshreyas/blob/master/coder.gif?raw=true" width="500" height="340" />
 
 - 🤖 I am an undergraduate Computer Engineering student at KJ Somaiya College of Engineering. I am a self-motivated, creative and technically sound computer engineering student with a keen interest in learning new technologies.
 
@@ -44,5 +44,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staticshreyas&layout=compact&theme=radical" />
 
 <img src="https://activity-graph.herokuapp.com/graph?username=staticshreyas&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"/>
-	
+	<img src="https://github.com/staticshreyas/staticshreyas/blob/output/github-contribution-grid-snake.svg"/>
+
 </p>
+
