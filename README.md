@@ -11,13 +11,21 @@
 
 <img align="right" alt="GIF" src="https://github.com/staticshreyas/staticshreyas/blob/master/coder.gif?raw=true" width="500" height="340" />
 
-- 🤖 I am an undergraduate Computer Engineering student at KJ Somaiya College of Engineering. I am a self-motivated, creative and technically sound computer engineering student with a keen interest in learning new technologies.
+- 🤖 Let's take a sneak peek into my story!
+
+Life, I think, is an adventure, and we should always strive to learn, develop, and evolve. I've always been a curious individual, eager to broaden my views and challenge myself to explore new horizons beyond my comfort zone. As a result, when I encountered the realm of programming, I realised I had uncovered my true calling. Challenging problems pique my interest, and it's an enthusiasm that gets stronger with each passing day. Nothing beats delving into the depths of a problem statement, unraveling its mysteries, and creating answers that can alter the world for me.
+
+My journey then took me to Microsoft, where I worked as a Full Stack Developer on some of the most cutting-edge products. As a member of a team that creates large-scale web applications for the Indian government, I was able to work on projects that made use of cutting-edge tools and frameworks that are changing the tech industry. Creating microservices for these projects has been a difficult but rewarding experience in which I was able to play with various coding techniques and architectures in order to produce highly performant and scalable code. It's been an incredible voyage of learning and development, and I can't wait to see where this path leads me next in the world of computing.
+
+I enjoy using tools like C#,.NET, SQL, and Azure to build safe and extensible software systems. It's extremely rewarding to see these systems come to life, handling millions of requests and effortlessly servicing users. I'm always learning and experimenting with new tools and frameworks in order to improve my abilities and provide even better answers.
+
+Designing and building feature - rich and performant software systems, adopting microservices architecture, making efficient database structures, and optimizing code for speed are among my specialities. I have significant expertise with technologies such as C++, C#,.NET, SQL, Angular, React, GCP and Azure, as well as working with Java, Python, Node.js, Solidity and Web3. I'm always up for new tasks and working on interesting projects that stretch the limits of what's possible.
 
 - 👉 My skills spans over Web Development, Machine Learning and AI.
 
 - 💡 I am currently developing decemtralised applications using Blockchain Technology. 
 
-- 📊 I have worked with tech giants, primarily 'Tech Mahindra.'
+- 📊 I have worked with tech giants like 'Microsoft', 'Tech Mahindra', and PiByThree. 
 
 
 
